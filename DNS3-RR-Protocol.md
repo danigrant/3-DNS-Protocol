@@ -153,7 +153,7 @@ right parental agent.
 
 We and [@I-D.ogud-dnsop-maintain-ds#00] argue that the publication of
 CDS/CDNSKEY record is sufficient for the parent to start the acceptance
-processing. The main point is to provide authentication. If the child is
+processing. The main point is to provide validation. If the child is
 in "good" state then the DS upload should be simple to accept and publish. If
 there is a problem, the parent has the ability to not add the DS.
 
